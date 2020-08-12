@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["LOCK_FILE",""]],"struct":[["VoltaLock","An RAII implementation of an exclusive lock on the Volta directory. When this falls out of scope, the lock will be unlocked."]]});
